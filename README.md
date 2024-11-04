@@ -1,10 +1,5 @@
 # About Me 👋
 
-
-**full-of-options/full-of-options** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on learning GitHub in order to develop mobile webapps and models, loras, etc. for AI image generation software.
 - 🌱 I’m currently learning something new every day.
 - 👯 I’m looking to collaborate on anything and everything that will provide me with an opportunity for personal growth and skills enhancement. 
